@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="Bio">
+        Sou um desenvolvedor apaixonado pelo que faço, então estou
+        sempre procurando aprender algo novo que me ajude a ser um
+        desenvolvedor melhor a cada dia. Trabalho em desenvolvimento
+        Web React, mobile usando React-Native, Styled-component, Git
+        e GitHub para versionamento de código. Atualmente
+        aprofundando meus conhecimentos em Typescript, Javascript e
+        jest, em treinamentos na empresa 7en Company para o
+        aprimoramento em soft skills de desenvolvedor web, e
+        desenvolvendo uma app de tarefas generico usando kotlin com
+        firebase para portifolio
+    </string>
+    <string name="what_is_your_nickname">What\'s your nickname</string>
+</resources>
